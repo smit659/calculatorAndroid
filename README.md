@@ -2,7 +2,7 @@
 
 I have implemented infix to postfix conversion algorithm in this project
 
-All the Arithmetic Operation like (+ * - / % ) are calculated using below mentioned two steps:
+All the Arithmetic Operation like (+ * - / % ) with Positive operand are calculated  using below mentioned two steps:
 
 steps  :-
 1)converting users input (infix expression) into postfix expression using STACK Data Structure.
